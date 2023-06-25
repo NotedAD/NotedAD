@@ -35,5 +35,10 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotedAD&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+> **🐍 Github Activity Snake**:
+
+|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
+|---|
+
 
 
