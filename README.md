@@ -16,7 +16,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👨‍💻: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 ---
@@ -32,7 +32,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotedAD&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotedAD)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 > **🐍 Github Activity Snake**:
