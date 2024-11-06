@@ -26,7 +26,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <p>Web</p>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,php,firebase,jquery,gulp,webpack,vite,tailwind,scss,wordpress,figma,npm,nodejs" title="Web" alt="Web" />&nbsp;<br>
   <p>.NET (WPF, WinForms)</p>
-    <img src="https://skillicons.dev/icons?i=cs,github,mysql" title="Software" alt="Software" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=cs,github,mysql,windows" title="Software" alt="Software" />&nbsp;
   
 </div>
 
