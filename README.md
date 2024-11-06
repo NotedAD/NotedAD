@@ -23,7 +23,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,php,firebase,jquery,gulp,webpack,vite,tailwind,scss,wordpress,api" title="Web" alt="Web" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,php,firebase,jquery,gulp,webpack,vite,tailwind,scss,wordpress" title="Web" alt="Web" />&nbsp;
     <img src="https://skillicons.dev/icons?i=cs,github,mysql" title="Software" alt="Software" />&nbsp;
   
 </div>
