@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a .NET and Full-Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ---
 
